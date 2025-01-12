@@ -27,7 +27,7 @@ AI SYMPTOM CHECKER/
 │   └── pyvenv.cfg
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ## Data Collection Overview
